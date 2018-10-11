@@ -1,6 +1,6 @@
 //
 //  AppDelegate.swift
-//  iOS Test For Balance Forcasting
+//  iOS test for balance forecasting
 //
 //  Created by viral patel on 11/10/2018.
 //  Copyright © 2018 viral patel. All rights reserved.
